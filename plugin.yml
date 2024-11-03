@@ -1,0 +1,6 @@
+name: SuperAutoRestart
+version: 1.1.0
+main: cn.xydym.SuperAutoRestart
+author: xydym - 幻想世界服务器群：634882525
+description: 自动重启服务器插件 - 需要配合相应循环bat
+api-version: 1.7.10
